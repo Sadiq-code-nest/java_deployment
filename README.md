@@ -1,6 +1,6 @@
 # Java Deployment with Apache Tomcat 9
 
-The script installs Apache Tomcat 9, sets up a dedicated tomcat user and group, configures a systemd service, and prepares the server for deploying Java WAR files. The live deployment can be accessed at http://54.161.71.139:8080/.
+Live at http://54.161.71.139:8080/.
 
 # Prerequisites
 - Ubuntu 20.04 or later
